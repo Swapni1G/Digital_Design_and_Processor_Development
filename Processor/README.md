@@ -4,12 +4,12 @@ For FPGA synthesis video, kindly refer to:
 https://drive.google.com/file/d/1xLEbVj8tgnbiUMWfR86hAAiCJwD7aEKM/view?usp=sharing <br>
 (note: output is diplayed in hexadecimal format)
 
-The computations performed are as follows:
-Register R1 <= 10
+The computations performed are as follows: <br>
+Register R1 <= 10  // a in hex.
 <br>
-Register R2 <= 20
+Register R2 <= 20  // 14 in hex.
 <br>
-Register R3 <= 25
+Register R3 <= 25  // 19 in hex.
 <br>
 Register R4 <= R1+R2  // 1e in hex.
 <br>
